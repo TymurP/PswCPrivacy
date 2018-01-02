@@ -1,9 +1,9 @@
 PRIVACY 
-PasswordContainer does not collect or use any specific data of you or of your stored data.
+Password-Container does not collect or use any specific data of you or of your stored data.
 
 DISCLAIMER / LIMITATION OF LIABILITY 
 The user acknowledges that the software may not be free from defects and may not satisfy all needs. Installation and usage is at users own risk. 
-Although PasswordContainer is tested under best efforts, it is using database technologies which may can possibly crash or also can get corrupted (data loss). The user is responsible for any possible data loss. It is highly recommended to make backups of the database regularly. 
+Although Password-Container is tested under best efforts, it is using database technologies which may can possibly crash or also can get corrupted (data loss). The user is responsible for any possible data loss. It is highly recommended to make backups of the database regularly. 
 
 The software is provided 'as-is', without any express or implied warranty. In no event the author will be held liable for any damages arising from the use of this software. 
 
@@ -12,17 +12,17 @@ The software is property of Tymur Pysarevych.
 It is not allowed to recompile, dissassemble, change, translate or clone the software and setup completely or partly in an unauthorized way. 
 
 
-Version from 20th Dec 2017 
+Version from 2nd Jan 2018
 
 
 
 
 PRIVATSPHAERE 
-PasswordContainer erhebt keine spezifischen Daten von Ihnen oder von Ihren gespeicherten Daten.
+Passwort-Container erhebt keine spezifischen Daten von Ihnen oder von Ihren gespeicherten Daten.
 
 HAFTUNGSAUSSCHLUSS / HAFTUNGSBESCHRAENKUNG 
 Der Benutzer erkennt an, dass die Software moeglicherweise nicht frei von Fehlern ist und nicht alle Anforderungen erfuellt. Die Installation und Nutzung erfolgt auf eigenes Risiko. 
-Obwohl PasswordContainer unter besten Anstrengungen getestet wird, verwendet es Datenbanktechnologien, die moeglicherweise abstuerzen oder auch beschaedigt werden koennen (Datenverlust). Der Benutzer ist fuer etwaigen Datenverlust verantwortlich. Es wird dringend empfohlen, regelmaeßig Backups der Datenbank zu machen. 
+Obwohl Passwort-Container unter besten Anstrengungen getestet wird, verwendet es Datenbanktechnologien, die moeglicherweise abstuerzen oder auch beschaedigt werden koennen (Datenverlust). Der Benutzer ist fuer etwaigen Datenverlust verantwortlich. Es wird dringend empfohlen, regelmaeßig Backups der Datenbank zu machen. 
 
 Die Software wird ohne jegliche ausdrueckliche oder stillschweigende Gewaehrleistung zur Verfuegung gestellt. In keinem Fall haftet der Autor fuer Schaeden, die durch die Nutzung dieser Software entstehen. 
 
@@ -31,4 +31,4 @@ Die Software ist Eigentum von Tymur Pysarevych.
 Es ist nicht erlaubt, die Software neu zu kompilieren, zu disassemblieren, zu aendern, zu uebersetzen oder zu klonen und ganz oder teilweise unberechtigt einzurichten. 
 
 
-Version ab 20. Dez 2017
+Version ab 02. Jan 2018
